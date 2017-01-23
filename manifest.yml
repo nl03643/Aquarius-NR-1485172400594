@@ -1,0 +1,14 @@
+applications:
+- path: .
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: Aquarius-NR
+  host: Aquarius-NR
+  disk_quota: 1024M
+  services:
+  - Aquarius-NR-cloudantNoSQLDB
+  - Aquarius-NR-iotf-service
+  env:
+    NODE_RED_USERNAME: aquarius
+    NODE_RED_PASSWORD: nep.3.tand
