@@ -47,8 +47,8 @@ var settings = module.exports = {
     //httpAdminAuth: {user:"user",pass:"5f4dcc3b5aa765d61d8327deb882cf99"},
     
     //jby
-  httpNodeAuth: {user:"aquarius1",pass:"$2a$08$zE0KdvzLNHhvgeB6BlzjoOPTXKkZkmNW12VDzzLJn4V2O.k1aSJXK"},
-  httpStaticAuth: {user:"aquarius1",pass:"$2a$08$1V2nRDwIlavLxbMJJgLWnuiN1Q4.Nq0Bi3RG/OeYkpzrbu8cN//QW"},
+  // httpNodeAuth: {user:"aquarius1",pass:"$2a$08$zE0KdvzLNHhvgeB6BlzjoOPTXKkZkmNW12VDzzLJn4V2O.k1aSJXK"},
+  // httpStaticAuth: {user:"aquarius1",pass:"$2a$08$1V2nRDwIlavLxbMJJgLWnuiN1Q4.Nq0Bi3RG/OeYkpzrbu8cN//QW"},
 
 //
     requireHttps: true,
