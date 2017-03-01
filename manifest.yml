@@ -11,4 +11,4 @@ applications:
   - Aquarius-NR-iotf-service
   env:
     NODE_RED_USERNAME: aquarius
-    NODE_RED_PASSWORD: 
+    NODE_RED_PASSWORD: nep.3.tand
